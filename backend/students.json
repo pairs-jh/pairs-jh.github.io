@@ -1,0 +1,5 @@
+[
+  { "name": "Ada Lovelace", "level": "Advanced", "tool": "Python" },
+  { "name": "Alan Turing", "level": "Intermediate", "tool": "Stata" },
+  { "name": "Grace Hopper", "level": "Beginner", "tool": "R" }
+]

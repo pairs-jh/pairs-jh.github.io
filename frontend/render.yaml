@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: pairs-frontend
+    env: static
+    plan: free
+    staticPublishPath: .
